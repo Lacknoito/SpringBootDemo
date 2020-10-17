@@ -11,7 +11,7 @@ public class UserController extends AbstractController {
 
 	@GetMapping("/users")
 	public ResponsePresent getUsers() {
-		return responseOK("S");
+		return responseOK("SS");
 	}
 	
 }

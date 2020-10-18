@@ -1,4 +1,4 @@
-package com.example.demo.model.response;
+package com.example.demo.common.security.model.response;
  
 public class ResponsePresent {
 	public static final String STATUS_OK = "OK";

@@ -1,6 +1,6 @@
 package com.example.demo;
 
-import com.example.demo.model.response.ResponsePresent;
+import com.example.demo.common.security.model.response.ResponsePresent;
 
 public abstract class AbstractController {
     protected ResponsePresent responseOK(Object data,String message){

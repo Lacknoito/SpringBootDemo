@@ -1,4 +1,4 @@
-package com.example.demo.mongo.entity;
+package com.example.demo.common.security.mongo.entity;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 
